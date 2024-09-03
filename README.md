@@ -2,7 +2,7 @@
 This repository contains a Jupyter Notebook that uses Convolutional Neural Networks (CNNs) to classify pneumonia from chest X-ray images. The dataset used in this project is the Chest X-ray Images (Pneumonia) dataset, sourced from Kaggle.
 
 ## Project Overview
-The notebook implements a a CNN model to classify pneumonia using chest X-ray images from the Kaggle dataset. The notebook covers data preprocessing, model training, and evaluation with metrics like accuracy. Ideal for medical image classification tasks.
+The notebook implements a CNN model to classify pneumonia using chest X-ray images from the Kaggle dataset. The notebook covers data preprocessing, model training, and evaluation with metrics like accuracy. Ideal for medical image classification tasks.
 
 ## Dataset
 Download the dataset from [Kaggle](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia). <br>
